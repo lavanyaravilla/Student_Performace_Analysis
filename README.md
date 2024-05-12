@@ -2,10 +2,6 @@
 Student_Performace_Analysis_Anamolie_Detection and Pattern Recognition
 
 
-Shubhang Sanjay Garodia <shubhang.garodia@vedantu.com>
-Thu, 9 May, 15:47 (2 days ago)
-to me
-
 Analysis of Student Performance Data for Anomaly Detection and Pattern Recognition
 
 Background: 
